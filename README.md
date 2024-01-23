@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jasminemontrichard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasminemontrichard/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jasminemontrichard/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasminemontrichard/" height="30" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
@@ -27,4 +29,9 @@
   <!-- Photoshop --><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminemontrichard&show_icons=true&locale=en&layout=compact" alt="lann892" /></p>
+<p>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jasminemontrichard" data-version="v1">
+      <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/jasminemontrichard?trk=profile-badge">Jasmine Montrichard</a>
+  </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminemontrichard&show_icons=true&locale=en&layout=compact" alt="lann892" />
+</p>
