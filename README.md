@@ -9,7 +9,7 @@
 
 - 🎓 I’m currently working toward a college diploma as a Software Engineering Technician
 
-- 🌱 I have some knowledge in Java, HTML/CSS, Cybersecurity, AI/ML, Network Administration, Cloud Computing, etc. but I am always willing to learn more!
+- 🌱 I have some knowledge in Java, HTML/CSS, Cybersecurity, AI/ML, Network Administration, Cloud Computing, as well as graphic design, but I am always willing to learn more!
 
 - 📧 Feel free to reach out: **jasminemontrichard@hotmail.com**
 
