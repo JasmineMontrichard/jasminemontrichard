@@ -1,3 +1,5 @@
+<!-- broo <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
+
 <h1 align="center">Hi! I'm Jasmine Montrichard</h1>
 <h3 align="center">High School Student and Part-Time College Student</h3>
 
@@ -30,8 +32,8 @@
 </p>
 
 <p>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jasminemontrichard" data-version="v1">
-      <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/jasminemontrichard?trk=profile-badge">Jasmine Montrichard</a>
-  </div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminemontrichard&show_icons=true&locale=en&layout=compact" alt="lann892" />
+  <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jasminemontrichard" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/jasminemontrichard?trk=profile-badge">Jasmine Montrichard</a>
+  </div>-->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminemontrichard&show_icons=true&locale=en&layout=compact" alt="lann892"/>
 </p>
