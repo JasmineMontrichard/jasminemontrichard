@@ -3,11 +3,11 @@
 
 <p align="left"><a href="something lol"></p>
 
-- 🌸 I’m a junior high school student pursuing computer science, environmental advocacy, and other interdiscipinlinary fields
+- 🌸 I’m pursuing computer science, environmental advocacy, and other interdiscipinlinary fields.
 
-- 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems
+- 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems.
 
-- 🎓 I’m currently working toward a college diploma as a Software Engineering Technician
+- 🎓 I’m currently working toward a college diploma as a Software Engineering Technician.
 
 - 🌱 I have some knowledge in Java, HTML/CSS, Cybersecurity, AI/ML, Network Administration, Cloud Computing, as well as graphic design, but I am always willing to learn more!
 
