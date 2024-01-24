@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jasminemontrichard/" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jasminemontrichard/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Email -->
+  <a href="mailto:jasminemontrichard@hotmail.com" target="blank"><img alt="Email" src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages</h3>
