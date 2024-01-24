@@ -3,7 +3,9 @@
 <h1 align="center">Hi! I'm Jasmine Montrichard</h1>
 <h3 align="center">High School Student and Part-Time College Student</h3>
 
-<p align="left"><a href="something lol"></p>
+<p align="left">
+  <!-- filler -->
+</p>
 
 - 🌸 I’m pursuing computer science, environmental advocacy, and other interdiscipinlinary fields.
 
