@@ -15,14 +15,14 @@
 
 - 🌱 I have some knowledge in Java, HTML/CSS, Cybersecurity, AI/ML, Network Administration, Cloud Computing, as well as graphic design, but I am always willing to learn more!
 
-- 📧 Feel free to reach out: **jasminemontrichard@hotmail.com**
+- 📧 Feel free to reach out: **JasmineMontrichard@hotmail.com**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jasminemontrichard/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/JasmineMontrichard/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Email -->
-  <a href="mailto:jasminemontrichard@hotmail.com" target="blank"><img alt="Email" src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="mailto:JasmineMontrichard@hotmail.com" target="blank"><img alt="Email" src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
   <!-- Leetcode -->
   <a href="https://leetcode.com/JasmineMontrichard/" target="blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
@@ -39,8 +39,8 @@
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <p>
-  <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jasminemontrichard" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/jasminemontrichard?trk=profile-badge">Jasmine Montrichard</a>
+  <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="JasmineMontrichard" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/JasmineMontrichard?trk=profile-badge">Jasmine Montrichard</a>
   </div>-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminemontrichard&show_icons=true&locale=en&layout=compact" alt="lann892"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasmineMontrichard&show_icons=true&locale=en&layout=compact" alt="JasmineMontrichard"/>
 </p>
