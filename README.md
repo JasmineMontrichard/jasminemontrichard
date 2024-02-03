@@ -15,7 +15,7 @@
 
 - 🌱 I have some knowledge in Java, HTML/CSS, Cybersecurity, AI/ML, Network Administration, Cloud Computing, as well as graphic design, but I am always willing to learn more!
 
-- 📧 Feel free to reach out: **JasmineMontrichard@hotmail.com**
+- 📧 Feel free to reach out: **jasminemontrichard@hotmail.com**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
