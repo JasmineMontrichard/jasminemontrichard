@@ -42,5 +42,5 @@
   <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="JasmineMontrichard" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/JasmineMontrichard?trk=profile-badge">Jasmine Montrichard</a>
   </div>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasmineMontrichard&show_icons=true&locale=en&layout=compact" alt="JasmineMontrichard"/>
+  d
 </p>
