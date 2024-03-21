@@ -1,6 +1,6 @@
 <!-- broo <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 
-<h1 align="center">Hi! I'm Jasmine Montrichard</h1>
+<h1 align="center">Hi! I'm <a href="https://jasminemontrichard.github.io/">Jasmine Montrichard</a></h1>
 <h3 align="center">High School Student and Part-Time College Student</h3>
 
 <p align="left">
