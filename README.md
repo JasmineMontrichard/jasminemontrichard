@@ -7,7 +7,7 @@
   <!-- filler -->
 </p>
 
-- 🌸 I’m pursuing computer science, environmental advocacy, and other interdiscipinlinary fields.
+- 🌸 I’m pursuing computer science, environmental advocacy, sociology, and other fields.
 
 - 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems.
 
@@ -37,6 +37,7 @@
 
   ![Canvas](https://img.shields.io/badge/Canvas-9b4fff?style=for-the-badge&logo=canva&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p>
   <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="JasmineMontrichard" data-version="v1">
