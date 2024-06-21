@@ -27,6 +27,8 @@
   <a href="https://leetcode.com/JasmineMontrichard/" target="blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
 
+<!-- Find these badges here: https://dev.to/envoy_/150-badges-for-github-pnk -->
+  
 <h3 align="left">Languages</h3>
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,9 +37,12 @@
 
 <h3 align="left">Tools</h3>
 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
   ![Canva](https://img.shields.io/badge/Canvas-9b4fff?style=for-the-badge&logo=canva&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
 
 <p>
   <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="JasmineMontrichard" data-version="v1">
