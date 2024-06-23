@@ -32,21 +32,23 @@
 <h3 align="left">Languages</h3>
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <h3 align="left">Tools</h3>
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
   ![Canva](https://img.shields.io/badge/Canvas-9b4fff?style=for-the-badge&logo=canva&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  
+
+<h3 align="left"><em>Currently Learning...</em></h3>
+
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p>
-  <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="JasmineMontrichard" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/JasmineMontrichard?trk=profile-badge">Jasmine Montrichard</a>
-  </div>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasmineMontrichard&show_icons=true&locale=en&layout=compact" alt="JasmineMontrichard"/>
 </p>
