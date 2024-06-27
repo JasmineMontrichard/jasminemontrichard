@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/JasmineMontrichard/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Email -->
   <a href="mailto:JasmineMontrichard@hotmail.com" target="blank"><img alt="Email" src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <!-- Leetcode -->
-  <a href="https://leetcode.com/JasmineMontrichard/" target="blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-</p>
 
 <!-- Find these badges here: https://dev.to/envoy_/150-badges-for-github-pnk -->
   
