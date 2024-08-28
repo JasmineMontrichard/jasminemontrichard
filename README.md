@@ -7,7 +7,7 @@
   <!-- filler -->
 </p>
 
-- 🌸 I’m pursuing computer science, environmental advocacy, sociology, and other fields.
+- 🌸 I’m pursuing software engineering, environmental advocacy, psychology, forsenics, and other fields!
 
 - 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems.
 
