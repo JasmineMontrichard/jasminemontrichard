@@ -11,7 +11,7 @@
 
 - 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems.
 
-- 🎓 I’m currently working toward a college diploma as a Software Engineering Technician.
+- 🎓 I’m currently working toward a Software Engineering Technician diploma as a part-time student.
 
 - 🌱 I have some knowledge in programming, cybersecurity, AI/ML, networking, cloud computing, as well as graphic design, but I am always willing to learn more!
 
