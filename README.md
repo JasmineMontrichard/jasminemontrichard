@@ -13,7 +13,7 @@
 
 - 🎓 I’m currently working toward a Software Engineering Technician diploma as a part-time student.
 
-- 🌱 Aspiring social advocate, tech enthusiast, and life-long learner!
+- 🌱 Aspiring social advocate and life-long learner!
 
 - 📧 Feel free to reach out: **jasminemontrichard@hotmail.com**
 
