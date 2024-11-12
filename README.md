@@ -7,13 +7,13 @@
   <!-- filler -->
 </p>
 
-- 🌸 I’m pursuing software engineering, environmental advocacy, psychology, forsenics, and other fields!
+- 🌸 I’m pursuing software engineering, environmental advocacy, forsenics, and other interdiscplinary fields!
 
 - 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems.
 
 - 🎓 I’m currently working toward a Software Engineering Technician diploma as a part-time student.
 
-- 🌱 I have some knowledge in programming, cybersecurity, AI/ML, networking, cloud computing, as well as graphic design, but I am always willing to learn more!
+- 🌱 Aspiring social advocate, tech enthusiast, and life-long learner!
 
 - 📧 Feel free to reach out: **jasminemontrichard@hotmail.com**
 
