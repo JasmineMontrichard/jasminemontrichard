@@ -9,9 +9,9 @@
 
 - 🌸 Aspiring software engineer!
 
-- 🌎 I love getting involved in projects and initatives to collaborately create solutions to real-world problems.
+- 🌎 I love getting involved in projects and initatives to collaborately create tailored solutions to real-world problems.
 
-- 🌱 Social advocate and life-long learner!
+- 🌱 Community-driven leader and lifelong learner, passionate about growth and making impact through technology and collaboration.
 
 - 📧 Feel free to reach out: **jasminemontrichard@hotmail.com**
 
